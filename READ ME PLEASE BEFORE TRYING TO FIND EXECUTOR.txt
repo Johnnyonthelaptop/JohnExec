@@ -1,0 +1,2 @@
+this might not work on all games but you can still try.
+also executor located at bin -> debug and then you should find the executor.
